@@ -1,0 +1,201 @@
+﻿Questions,Views,Votes
+Why is processing a sorted array faster than processing an unsorted array?,1814085,26999
+How do I undo the most recent local commits in Git?,12760567,25634
+How do I delete a Git branch locally and remotely?,10944719,20120
+What is the difference between 'git pull' and 'git fetch'?,3368731,13611
+"What does the ""yield"" keyword do in Python?",3199866,12614
+How can I remove a specific item from an array in JavaScript?,11627021,11473
+Which JSON content type do I use?,3757225,11417
+How do I rename a local Git branch?,5014633,11235
+How do I undo 'git add' before commit?,5069321,11045
+What is the '-->' operator in C/C++?,977666,10014
+Can comments be used in JSON?,3415194,9349
+"How do I force ""git pull"" to overwrite local files?",7694393,9307
+What and where are the stack and heap?,1851429,9267
+Why does HTML think “chucknorris” is a color?,736978,8641
+How do I check if an element is hidden in jQuery?,3124470,8583
+"What does ""use strict"" do in JavaScript  and what is the reasoning behind it?",1204323,8396
+How do I check out a remote Git branch?,7922212,8380
+"What does if __name__ == ""__main__"": do?",4416262,7997
+How do I remove local (untracked) files from the current Git working tree?,3010715,7950
+How do I make Git forget about a file that was tracked  but is now in .gitignore?,2138345,7804
+Does Python have a ternary conditional operator?,2763335,7712
+How do I redirect to another webpage?,7624279,7703
+"Is Java ""pass-by-reference"" or ""pass-by-value""?",2607845,7680
+How to modify existing  unpushed commit messages?,3431977,7651
+How do JavaScript closures work?,1611081,7621
+How do I revert a Git repository to a previous commit?,9923165,7611
+var functionName = function() {} vs function functionName() {},1199752,7566
+Why is subtracting these two epoch-milli Times (in year 1927) giving a strange result?,786448,7487
+What is the difference between String and string in C#?,1288056,7467
+How to check whether a string contains a substring in JavaScript?,7670056,7408
+How do I remove a property from a JavaScript object?,3057054,7356
+How can I find all files containing specific text (string) on Linux?,10163370,7242
+What are metaclasses in Python?,1114327,7205
+How do I check whether a file exists without exceptions?,5200628,6961
+How do I merge two dictionaries in a single expression in Python?,3088892,6722
+How do I return the response from an asynchronous call?,2061777,6590
+Move the most recent commit(s) to a new branch with Git,1626463,6336
+What is the difference between px  dip  dp  and sp?,1461385,6319
+What is the difference between POST and PUT in HTTP?,3213697,6229
+How do I include a JavaScript file in another JavaScript file?,4220893,6217
+"What is the difference between ""let"" and ""var""?",2188187,6114
+How do I discard unstaged changes in Git?,3843757,6084
+How do I get the directory where a Bash script is located from within the script itself?,2420436,6078
+How to disable text selection highlighting,2641615,6024
+How do I execute a program or call a system command?,4370528,5969
+How do I change the URI (URL) for a remote Git repository?,3440152,5909
+Which equals operator (== vs ===) should be used in JavaScript comparisons?,2095071,5649
+What is the maximum length of a URL in different browsers?,1602840,5608
+How do I reset or revert a file to a specific revision?,2831313,5590
+Loop (for each) over an array in JavaScript,5181544,5583
+The definitive guide to form-based website authentication [closed],671386,5518
+How do I create a directory  and any missing parent directories?,3539105,5502
+How do I push a new local branch to a remote Git repository and track it too?,5499023,5501
+How can I validate an email address in JavaScript?,4477422,5478
+Reset local repository branch to be just like remote repository HEAD,5641550,5435
+How do I replace all occurrences of a string in JavaScript?,4406441,5379
+"What is a plain English explanation of ""Big O"" notation?",808145,5319
+How do I resolve merge conflicts in a Git repository?,3400726,5316
+How to determine the URL that a local Git repository was originally cloned from,4212705,5259
+Regular expression to match a line that doesn't contain a word,4806035,5224
+How do I create a GUID / UUID?,2840567,5223
+How do I add an empty directory to a Git repository?,1432596,5203
+"What is the difference between ""INNER JOIN"" and ""OUTER JOIN""?",2581150,5176
+What is the most efficient way to deep clone an object in JavaScript?,2777184,5170
+Accessing the index in 'for' loops,3944648,5148
+How do I make a flat list out of a list of lists?,3982114,5134
+How do I check whether a checkbox is checked in jQuery?,4739365,5129
+How do I exit Vim?,2853841,5108
+How do I squash my last N commits together?,3278724,5104
+What's the difference between tilde(~) and caret(^) in package.json?,1554818,5056
+How do I make the first letter of a string uppercase in JavaScript?,3750428,5051
+Reference Guide: What does this symbol mean in PHP? (PHP Syntax),815813,5033
+How can I horizontally center an element?,4802381,5022
+What is the difference between a URI  a URL  and a URN?,1291393,4897
+How do I check if an array includes a value in JavaScript?,3413223,4831
+Undo a Git merge that hasn't been pushed yet,3061481,4777
+"How to pass ""Null"" (a real surname!) to a SOAP web service in ActionScript 3",944261,4760
+How do I get a timestamp in JavaScript?,4020701,4730
+How do I clone all remote branches?,1683509,4702
+How do I read / convert an InputStream into a String in Java?,2586445,4642
+How can I delete a remote tag?,1883229,4620
+How do I update or sync a forked repository on GitHub?,1202225,4604
+"Setting ""checked"" for a checkbox with jQuery",3780524,4544
+Difference between @staticmethod and @classmethod,1037567,4535
+"""Thinking in AngularJS"" if I have a jQuery background? [closed]",851852,4507
+How slicing in Python works,2883583,4482
+Why does Google prepend while(1); to their JSON responses?,596854,4447
+"Which ""href"" value should I use for JavaScript links  ""#"" or ""javascript:void(0)""?",2480868,4394
+How is Docker different from a virtual machine?,901864,4371
+How do I remove a submodule?,1445792,4368
+How do I avoid checking for nulls in Java?,1418758,4358
+How do I copy to the clipboard in JavaScript?,2829712,4347
+Change an HTML input's placeholder color with CSS,1959009,4338
+How do I check if a directory exists or not in a Bash shell script?,3123198,4328
+How to enumerate an enum?,1002909,4324
+How to close/hide the Android soft keyboard programmatically?,1798691,4299
+Finding the index of an item in a list,5945774,4287
+What are the differences between a HashMap and a Hashtable in Java?,1721783,4272
+The Definitive C++ Book Guide and List,3001100,4230
+How do I UPDATE from a SELECT in SQL Server?,5141217,4204
+What is RESTful programming?,1727953,4166
+How can I pair socks from a pile efficiently?,436201,4162
+Iterating over dictionaries using 'for' loops,5520425,4157
+How do I delete a commit from a branch?,4313162,4151
+Undoing a git rebase,1804788,4143
+How to insert an item into an array at a specific index (JavaScript),3326310,4114
+grep: show lines surrounding each match,1416892,4089
+What is the !! (not not) operator in JavaScript?,887300,4063
+Create ArrayList from array,1796661,4055
+How do I generate random integers within a specific range in Java?,5072018,4052
+How can I validate an email address using a regular expression?,2322947,4051
+Is there a CSS parent selector?,3193386,4033
+How to round to at most 2 decimal places  if necessary,4136784,4006
+Sort array of objects by string property value,3042993,4001
+Proper use cases for Android UserManager.isUserAGoat()?,359840,3977
+Make an existing Git branch track a remote branch?,1697653,3976
+Checking if a key exists in a JavaScript object?,3344309,3945
+Message 'src refspec master does not match any' when pushing commits in Git,4097001,3944
+Loop through an array in JavaScript,5235850,3934
+How do I efficiently iterate over each entry in a Java Map?,3221484,3915
+How do I test for an empty JavaScript object?,4046728,3893
+How do I tell if a file does not exist in Bash?,2970540,3883
+How do I check for an empty/undefined/null string in JavaScript?,5072667,3882
+How do I clone a specific Git branch? [duplicate],4463564,3880
+Using global variables in a function,3950614,3868
+How to iterate over rows in a DataFrame in Pandas,6596451,3867
+What are the differences between a pointer variable and a reference variable?,1211589,3838
+How do I cast int to enum in C#?,1934799,3837
+Why don't Java's +=  -=  *=  /= compound assignment operators require casting long to int?,315359,3830
+Is floating point math broken?,538351,3815
+Move existing  uncommitted work to a new branch in Git,961441,3812
+Why is char[] preferred over String for passwords?,501745,3810
+How do I get the current branch name in Git?,2868302,3805
+How do I get the current time?,4133010,3750
+View the change history of a file using Git versioning,2290021,3743
+Remove a file from a Git repository without deleting it from the local filesystem,1126213,3741
+Iterate through a HashMap [duplicate],4381049,3738
+Catch multiple exceptions in one line (except block),1372858,3714
+How can I create a memory leak in Java?,739878,3693
+How do I POST JSON data with cURL?,4029038,3678
+How do I correctly clone a JavaScript object?,2303422,3677
+How do I stash only one file out of multiple files that have changed?,1168777,3670
+Get the current URL with JavaScript?,3638156,3662
+Set cellpadding and cellspacing in CSS?,2685443,3661
+How do I create a remote Git branch?,2772950,3653
+How to copy files,3330624,3643
+Convert bytes to a string,4757234,3634
+What is the difference between public  protected  package-private and private in Java?,2518864,3625
+What is the difference between __str__ and __repr__?,943336,3609
+What does the explicit keyword mean?,1144648,3591
+Does Python have a string 'contains' substring method?,6388574,3588
+What is the JavaScript version of sleep()?,4458079,3584
+How can I pretty-print JSON in a shell script?,1684612,3579
+When to use LinkedList over ArrayList in Java?,1352607,3573
+What is dependency injection?,1136451,3567
+What is __init__.py for?,2195147,3553
+How do I loop through or enumerate a JavaScript object?,2732052,3537
+Why is the Android emulator so slow? How can we speed up the Android emulator? [closed],1122081,3521
+403 Forbidden vs 401 Unauthorized HTTP responses,1415440,3505
+Commit only part of a file's changes in Git,592801,3481
+How do I list all the files in a commit?,2118688,3480
+How do I list all files of a directory?,7706127,3467
+How can I add new keys to a dictionary?,5140179,3462
+How do I convert a String to an int in Java?,6704589,3462
+Git refusing to merge unrelated histories on rebase,2635685,3461
+How to concatenate string variables in Bash,4820002,3452
+What is the difference between call and apply?,802585,3436
+How can I convert a string to boolean in JavaScript?,3217912,3423
+How to check if a string contains a substring in Bash,2920884,3418
+How do I sort a dictionary by value?,5036310,3415
+AngularJS: Service vs provider vs factory,782809,3405
+"Difference between ""git add -A"" and ""git add .""",2095674,3394
+How do I format a date in JavaScript?,6321179,3388
+What is a serialVersionUID and why should I use it?,1122966,3385
+"Git is not working after macOS update (""xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools"")",1379477,3379
+Creating multiline strings in JavaScript,2260728,3371
+Case insensitive 'Contains(string)',1172824,3368
+Echo newline in Bash prints literal \n,3166109,3358
+How can I change an element's class with JavaScript?,3378090,3349
+How do I select rows from a DataFrame based on column values?,5806531,3340
+How do I iterate over the words of a string?,2377170,3327
+"""Least Astonishment"" and the Mutable Default Argument",249455,3322
+Improve INSERT-per-second performance of SQLite,481113,3319
+pretty-print JSON using JavaScript,1683537,3296
+How do I copy a folder from remote to local using scp?,3077073,3296
+How can I check if an object is an array? [duplicate],1996873,3296
+"Why is ""using namespace std;"" considered bad practice?",1160165,3287
+Initialization of an ArrayList in one line,3634298,3276
+What does ** (double star/asterisk) and * (star/asterisk) do for parameters?,1263760,3276
+How do I concatenate two lists in Python?,4178830,3242
+How do I pass a variable by reference?,1945934,3236
+How do I make git use the editor of my choice for editing commit messages?,1294601,3229
+How do I check if a list is empty?,4607974,3228
+How do you push a tag to a remote repository using Git?,1854592,3228
+How can I delete a file or folder in Python?,3222975,3227
+How to iterate over a dictionary?,2271140,3224
+event.preventDefault() vs. return false,929973,3222
+"Why does my JavaScript code receive a ""No 'Access-Control-Allow-Origin' header is present on the requested resource"" error  while Postman does not?",6007794,3221
+How do I clone a list so that it doesn't change unexpectedly after assignment?,2112678,3215
+How do I disable the resizable property of a textarea?,1755946,3212
